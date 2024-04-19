@@ -1,0 +1,7 @@
+.env
+/json
+/test
+/__pycache__
+/myenv
+/logs
+device_matching.log
